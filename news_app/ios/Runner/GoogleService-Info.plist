@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>635195668228-9mve2b86utppugk0le6v2od6dc0sg35h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.635195668228-9mve2b86utppugk0le6v2od6dc0sg35h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>635195668228-e394ccfp801apb4k6mkr28kk4p8threq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDaWq3io-TTvWv1_pkRqQQqwARzyh7hI2w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>635195668228</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.incott.newsapp</string>
+	<key>PROJECT_ID</key>
+	<string>incott-e5811</string>
+	<key>STORAGE_BUCKET</key>
+	<string>incott-e5811.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:635195668228:ios:2648867b57c525d47e4251</string>
+	<key>DATABASE_URL</key>
+	<string>https://incott-e5811-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

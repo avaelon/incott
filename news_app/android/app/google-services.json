@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "635195668228",
+    "project_id": "incott-e5811",
+    "storage_bucket": "incott-e5811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635195668228:android:76b6e87e0fc588807e4251",
+        "android_client_info": {
+          "package_name": "org.incott.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635195668228-e394ccfp801apb4k6mkr28kk4p8threq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.incott.news_app",
+            "certificate_hash": "04fc6c86d5763e9a1ade5f0e8d226efd90cdcabf"
+          }
+        },
+        {
+          "client_id": "635195668228-n1t41ktaq4ajhoe79mt97qtl4nljoget.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.incott.news_app",
+            "certificate_hash": "aef0fa5ba697b78eb6de0c6ae3bb8126bb237fe3"
+          }
+        },
+        {
+          "client_id": "635195668228-kh9vrdsjmj9140fbeaqun0uukkjim3r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAjz9Ah4j7wLDAE_QmTmNjuO-yM6GPkFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635195668228-kh9vrdsjmj9140fbeaqun0uukkjim3r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
